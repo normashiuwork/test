@@ -6,7 +6,7 @@ var GAME_ROOMS_GROUP_NAME = "games";
 var EXTENSION_ID = "tris";
 var EXTENSIONS_CLASS = "sfs2x.extensions.games.tris.TrisExtension";
 var NewVar = "b" ;
-
+var d="d";
 //------------------------------------
 // Vars
 //------------------------------------
