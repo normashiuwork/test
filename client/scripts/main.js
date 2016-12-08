@@ -5,6 +5,7 @@ var LOBBY_ROOM_NAME = "The Lobby";
 var GAME_ROOMS_GROUP_NAME = "games";
 var EXTENSION_ID = "tris";
 var EXTENSIONS_CLASS = "sfs2x.extensions.games.tris.TrisExtension";
+var NewVar = "" ;
 
 //------------------------------------
 // Vars
