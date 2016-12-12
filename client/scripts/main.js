@@ -26,8 +26,12 @@ function init()
 	config.host = "http://localhost";
 	config.porot = 8888;
 	config.zone = "Test";
+	config.host = "127.0.0.1";
+	config.port = 8888;
+	config.zone = "GameExtension";
 	config.debug = true;
 	
+	trace("Application started 2");
 	// Create SmartFox client instance
 	sfs = new SmartFox(config);
 	
